@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VoIP.WinFormsUserInterface.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SignalizationPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">54123</Value>
+    </Setting>
+    <Setting Name="RtpPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">40100</Value>
+    </Setting>
+    <Setting Name="RtcpPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">40101</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
